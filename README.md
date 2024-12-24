@@ -19,10 +19,21 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Review lending policies for grades B and C, particularly for loans with interest rates ranging between 10.5% to 15%.
+- Implement stricter credit checks or offer lower loan amounts to reduce default rates for borrowers in sub-grades B3, B4, and B5."
+- Borrowers with 10 years of experience show higher default rates. Reassess the creditworthiness of this demographic and prioritize more stable income verification.
+- Implement stricter loan approval criteria for borrowers with annual incomes ranging between 0.4 to 0.6 million.
+- To reduce default risk, offer smaller loans or shorter repayment terms to lower-income borrowers."
+- Assign higher risk weights to renters when evaluating loan applications
+- Offer specialized financial products for renters, such as lower interest rates for smaller loans to reduce the risk of default."
+- High-risk purposes ""debt consolidation, small business loans"" implement stricter lending criteria
+- Ex: Debt consolidation: Set Minimum credit score, and short tenure with a slightly high interest rate. Small Business loans: Collateral, - - Set minimum business operational history (Ex: 2 years), and strict income check."
+- Flexible Repayment Plans with lower EMIs
+- Interest Rate Adjustments Ex: Borrowers with credit scores 700+ get a rate reduction to <10.5% upon request.
+- Use automated alerts to remind borrowers of upcoming payments to avoid repayment/late payments."
+- Offer loans with a lower initial interest rate for borrowers in grades B and C, which gradually increases based on repayment performance.
+- Provide interest rate reductions for B and C-grade borrowers who opt for shorter loan tenures."
+- Increase the tenure based on income, credit score, and past loan repayment behavior with a lesser interest rate
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
